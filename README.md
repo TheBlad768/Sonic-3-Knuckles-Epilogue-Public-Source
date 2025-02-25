@@ -2,7 +2,7 @@
 
 ## Disclaimer
 
-• New version of the hack
+â€¢ New version of the hack
 
 At first I intended to post a quick update to fix some things I noticed after the release, but i thought it wouldn't exactly be fair to post the exact same thing after so many years.
 
@@ -16,15 +16,15 @@ About the hack:
 
 If you enjoyed games like Contra The Hard Corps, The Adventures of Batman and Robin, Alien Soldier, Rocket Knight Adventures, Gunstar Heroes...This hack is made for you!
 
-• Hardcore gameplay, tough bosses, unfair to the casual gamers.
+â€¢ Hardcore gameplay, tough bosses, unfair to the casual gamers.
 
-• Time Attack Set your own records, defeat bosses the fastest and improve your time.
+â€¢ Time Attack Set your own records, defeat bosses the fastest and improve your time.
 
-• SRAM No need to rewatch the cutscenes again and again - lots of your actions are saved, making it available to start the game right away from the options menu.
+â€¢ SRAM No need to rewatch the cutscenes again and again - lots of your actions are saved, making it available to start the game right away from the options menu.
 
-• New Sonium minigame A little parody of the game Paprium
+â€¢ New Sonium minigame A little parody of the game Paprium
 
-• Secrets and easter eggs Can you find them all?
+â€¢ Secrets and easter eggs Can you find them all?
 
 This hack is my original story.
 
@@ -38,7 +38,7 @@ Can our heroes stop Robotnik? It all depends on you..."
 
 Extras
 
-• Mode 1 support Enjoy the game with HQ music! FoxConED made badass themes specifically for this hack.
+â€¢ Mode 1 support Enjoy the game with HQ music! FoxConED made badass themes specifically for this hack.
 
 I've personally played on Mega Everdrive PRO with CD music. You can emulate the hack on RetroArch with Genesis Plus GX core. Unfortunately Kega Fusion seems to have troubles with Mode 1, which makes it unavailable to use.
 
@@ -46,27 +46,13 @@ I've personally played on Mega Everdrive PRO with CD music. You can emulate the 
 
 ! Known bugs
 
-• Not all graphics have been adapted for new levels.
+â€¢ Not all graphics have been adapted for new levels.
 
-• Used music from Sonic Virtual Adventure.(We weren't able to update everything in time)
+â€¢ Used music from Sonic Virtual Adventure.(We weren't able to update everything in time)
 
-• Other small mistakes
+â€¢ Other small mistakes
 
 Thanks for checking this out! :)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ## Credits
