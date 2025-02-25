@@ -33,7 +33,7 @@ At first I intended to post a quick update to fix some things I noticed after th
 
 So Hardline Team once again started work on the new version of the hack!
 
-! Lots of fixes and corrections.We wanted to present you a completely different version of the 2018's hack with big updates, and although not everything has been achieved due to the time limit, I personally believe it's worth your time :)
+! Lots of fixes and corrections. We wanted to present you a completely different version of the 2018's hack with big updates, and although not everything has been achieved due to the time limit, I personally believe it's worth your time :)
 
 We have tried our best and hope you would like all the hard work we've done.
 
