@@ -1,8 +1,11 @@
 # Sonic 3 & Knuckles: Epilogue
 
-This version will be different from the release version because the controversial content has been removed.
+
 
 ## Disclaimer
+
+This version will be different from the release version because the controversial content has been removed.
+
 
 • New version of the hack
 
