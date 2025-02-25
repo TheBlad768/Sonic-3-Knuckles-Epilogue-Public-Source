@@ -1,6 +1,6 @@
 # Sonic 3 & Knuckles: Epilogue
 
-
+![Title](https://i.imgur.com/Ll1XjLi.png)
 
 ## Disclaimer
 
