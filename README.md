@@ -4,8 +4,7 @@
 
 ## Disclaimer
 
-This version will be different from the release version because the controversial content has been removed.
-
+### <code style="color : RED">This version will be different from the release version because the controversial content has been removed.</code>
 
 • New version of the hack
 
