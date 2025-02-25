@@ -2,6 +2,27 @@
 
 ![Title](https://i.imgur.com/Ll1XjLi.png)
 
+## Screenshots
+
+<details>
+<summary>Screenshots</summary>
+ 
+![1]
+![2]
+![3]
+![4]
+![5]
+![6]
+
+[1]: https://i.imgur.com/6VKEzD3.png
+[2]: https://i.imgur.com/Cu1Ftvm.png
+[3]: https://i.imgur.com/x1pNDoN.png
+[4]: https://i.imgur.com/DWYNl8Y.png
+[5]: https://i.imgur.com/QEKJdq0.png
+[6]: https://i.imgur.com/q9pSwqS.png
+
+</details>
+
 ## Disclaimer
 
 ### <code style="color : RED">This version will be different from the release version because the controversial content has been removed.</code>
