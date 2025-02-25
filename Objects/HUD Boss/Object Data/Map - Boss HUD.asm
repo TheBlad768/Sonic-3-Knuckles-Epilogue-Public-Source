@@ -1,0 +1,1 @@
+Map_BossHUD:	dc.b 0, $D, 0, 0, 0, 0

@@ -1,0 +1,1 @@
+https://github.com/flamewing/asl-releases

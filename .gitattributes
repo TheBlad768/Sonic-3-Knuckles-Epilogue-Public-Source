@@ -1,0 +1,9 @@
+*.asm text
+*.txt text
+*.xml text
+*.cs text
+*.cpp text
+*.ini text
+*.snd binary
+*.bin binary
+*.gen binary

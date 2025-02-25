@@ -1,0 +1,35 @@
+FILE "DEZ.wav" WAVE
+  TRACK 01 AUDIO
+    INDEX 01 00:00:00
+
+FILE "Cutscene - Big Ball.wav" WAVE
+  TRACK 02 AUDIO
+    INDEX 01 00:00:00
+
+FILE "Cutscene - Robotnik.wav" WAVE
+  TRACK 03 AUDIO
+    INDEX 01 00:00:00
+
+FILE "Boss Theme - Death Ball.wav" WAVE
+  TRACK 04 AUDIO
+    INDEX 01 00:00:00
+
+FILE "Boss Theme - Big Ball.wav" WAVE
+  TRACK 05 AUDIO
+    INDEX 01 00:00:00
+
+FILE "Invincible.wav" WAVE
+  TRACK 06 AUDIO
+    INDEX 01 00:00:00
+
+FILE "Act Clear.wav" WAVE
+  TRACK 07 AUDIO
+    INDEX 01 00:00:00
+
+FILE "Countdown.wav" WAVE
+  TRACK 08 AUDIO
+    INDEX 01 00:00:00
+
+FILE "Prologue.wav" WAVE
+  TRACK 09 AUDIO
+    INDEX 01 00:00:00
