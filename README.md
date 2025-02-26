@@ -1,14 +1,39 @@
 # Sonic 3 & Knuckles: Epilogue
 
+![Title](https://i.imgur.com/Ll1XjLi.png)
+
+## Screenshots
+
+<details>
+<summary>Screenshots</summary>
+ 
+![1]
+![2]
+![3]
+![4]
+![5]
+![6]
+
+[1]: https://i.imgur.com/6VKEzD3.png
+[2]: https://i.imgur.com/Cu1Ftvm.png
+[3]: https://i.imgur.com/x1pNDoN.png
+[4]: https://i.imgur.com/DWYNl8Y.png
+[5]: https://i.imgur.com/QEKJdq0.png
+[6]: https://i.imgur.com/q9pSwqS.png
+
+</details>
+
 ## Disclaimer
 
-• New version of the hack
+### <code style="color : RED">This version will be different from the release version because the controversial content has been removed.</code>
+
+â€¢ New version of the hack
 
 At first I intended to post a quick update to fix some things I noticed after the release, but i thought it wouldn't exactly be fair to post the exact same thing after so many years.
 
 So Hardline Team once again started work on the new version of the hack!
 
-! Lots of fixes and corrections.We wanted to present you a completely different version of the 2018's hack with big updates, and although not everything has been achieved due to the time limit, I personally believe it's worth your time :)
+! Lots of fixes and corrections. We wanted to present you a completely different version of the 2018's hack with big updates, and although not everything has been achieved due to the time limit, I personally believe it's worth your time :)
 
 We have tried our best and hope you would like all the hard work we've done.
 
@@ -16,15 +41,15 @@ About the hack:
 
 If you enjoyed games like Contra The Hard Corps, The Adventures of Batman and Robin, Alien Soldier, Rocket Knight Adventures, Gunstar Heroes...This hack is made for you!
 
-• Hardcore gameplay, tough bosses, unfair to the casual gamers.
+â€¢ Hardcore gameplay, tough bosses, unfair to the casual gamers.
 
-• Time Attack Set your own records, defeat bosses the fastest and improve your time.
+â€¢ Time Attack Set your own records, defeat bosses the fastest and improve your time.
 
-• SRAM No need to rewatch the cutscenes again and again - lots of your actions are saved, making it available to start the game right away from the options menu.
+â€¢ SRAM No need to rewatch the cutscenes again and again - lots of your actions are saved, making it available to start the game right away from the options menu.
 
-• New Sonium minigame A little parody of the game Paprium
+â€¢ New Sonium minigame A little parody of the game Paprium
 
-• Secrets and easter eggs Can you find them all?
+â€¢ Secrets and easter eggs Can you find them all?
 
 This hack is my original story.
 
@@ -38,7 +63,7 @@ Can our heroes stop Robotnik? It all depends on you..."
 
 Extras
 
-• Mode 1 support Enjoy the game with HQ music! FoxConED made badass themes specifically for this hack.
+â€¢ Mode 1 support Enjoy the game with HQ music! FoxConED made badass themes specifically for this hack.
 
 I've personally played on Mega Everdrive PRO with CD music. You can emulate the hack on RetroArch with Genesis Plus GX core. Unfortunately Kega Fusion seems to have troubles with Mode 1, which makes it unavailable to use.
 
@@ -46,38 +71,24 @@ I've personally played on Mega Everdrive PRO with CD music. You can emulate the 
 
 ! Known bugs
 
-• Not all graphics have been adapted for new levels.
+â€¢ Not all graphics have been adapted for new levels.
 
-• Used music from Sonic Virtual Adventure.(We weren't able to update everything in time)
+â€¢ Used music from Sonic Virtual Adventure.(We weren't able to update everything in time)
 
-• Other small mistakes
+â€¢ Other small mistakes
 
 Thanks for checking this out! :)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ## Credits
 
 ### Red Miso Studios Staff
 
-Code: TheBlad768.
-Music: FoxConED, N-BAH, mrcat-pixel.
-Graphics: mrcat-pixel, TheBlad768, FoxConED, tisakotu, Dolphman.
-Beta testers: Narcologer, FoxConED, mrcat-pixel, tisakotu, Vladikcomper.
-English translation: mrcat-pixel, Hotmilk.
+- Code: TheBlad768.
+- Music: FoxConED, N-BAH, mrcat-pixel.
+- Graphics: mrcat-pixel, TheBlad768, FoxConED, tisakotu, Dolphman.
+- Beta testers: Narcologer, FoxConED, mrcat-pixel, tisakotu, Vladikcomper.
+- English translation: mrcat-pixel, Hotmilk.
 
 
 # Usage of parts made by Red Miso Studios
